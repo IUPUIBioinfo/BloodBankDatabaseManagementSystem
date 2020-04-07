@@ -1,7 +1,5 @@
 # BloodBankDatabaseManagementSystem
 
-Abstract
-
 ABSTRACT:
 It can be hard to find blood donors all in one place due to multiple different organizations that host donation events. 
 We want to be able to create a database that maintains this information on one database. Donors can enter their information 
